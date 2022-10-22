@@ -1,0 +1,5 @@
+*.1688.com
+*.alicdn.com
+*.aliyuncs.com
+*.alibaba.com
+*.bootcdn.net
