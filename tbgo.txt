@@ -4,3 +4,4 @@
 *.alibaba.com
 *.bootcdn.net
 *.taobao.com
+*.alipay.com
