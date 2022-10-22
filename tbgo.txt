@@ -3,3 +3,4 @@
 *.aliyuncs.com
 *.alibaba.com
 *.bootcdn.net
+*.taobao.com
